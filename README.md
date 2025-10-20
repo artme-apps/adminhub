@@ -4,6 +4,8 @@ Welcome to the AdminHub Dashboard repository!
 
 AdminHub Dashboard is a sleek and modern dashboard design created using HTML, CSS, and JavaScript. This repository contains the source code for the AdminHub Dashboard.
 
+Get the v2 here [Adminhub v2](https://github.com/fajarnurwahid/adminhub-v2)
+
 ## Features
 
 - Responsive layout for desktop and mobile devices
